@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "name": "oemshop",
-  "release": "20210104",
-  "channel": "chinaz",
+  "release": "20210120",
+  "channel": "default",
   "show_help": true,
   "site_name": "帮助中心",
   "site_url": "http://www.oemsoft.cn/"
