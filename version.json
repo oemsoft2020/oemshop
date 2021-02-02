@@ -2,7 +2,7 @@
   "version": "3.0.1",
   "name": "oemshop",
   "release": "20210120",
-  "channel": "default",
+  "channel": "github",
   "show_help": true,
   "site_name": "帮助中心",
   "site_url": "http://www.oemsoft.cn/"
