@@ -169,11 +169,3 @@ http://doc.s102.y01.cn
 46.云打印，支持飞蛾打印机，365云打印机。
 
 47.缓存清除，商品分类，商城设置，应用设置，分销设置，临时图片，界面等缓存清除和管理。 
-
-
-![手机版](https://images.gitee.com/uploads/images/2021/0130/222127_0afe0fc4_5351414.png "屏幕截图.png")
-
-![商城主界面](https://images.gitee.com/uploads/images/2021/0130/222303_fab2937e_5351414.jpeg "商城主界面.jpg")
-![商城应用](https://images.gitee.com/uploads/images/2021/0130/222334_c3d0e1c3_5351414.jpeg "应用界面.jpg")
-![后台运营管理系统](https://images.gitee.com/uploads/images/2021/0130/222233_faa46cce_5351414.png "后台运营管理系统.png")
-![业务管理系统](https://images.gitee.com/uploads/images/2021/0130/222407_81ba355d_5351414.png "业务管理系统.png")
